@@ -10,13 +10,13 @@ public class LatihanUklSoal2Sedang {
         System.out.print("Masukkan tinggi tabung (t): ");
         double t = input.nextDouble();
 
-        double volume = hitungVolumeTabung(r, t);
-        System.out.println("Volume tabung adalah: " + volume + " cm³");
+        double volume = hitungVolumeTabung(r,t);
+        System.out.println("Volume tabung adalah: " + volume + "cm³");
         input.close();
     }
 
-    public static double hitungVolumeTabung(double r, double t) {
+    public static double hitungVolumeTabung(double r,double t) {
         double phi = 3.14159;
-        return phi * r * r * t;
+        return phi *r *r *t;
     }
 }
