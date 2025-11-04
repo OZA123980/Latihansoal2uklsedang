@@ -7,4 +7,7 @@ Cara kerjannya adalah:
 -Fungsi menghitung volume berdasarkan rumus di atas dan mengembalikan hasilnya.
 -Program utama menampilkan hasil volume tabung ke layar.
 
+Dokumentasi Outputnya:
+![WhatsApp Image 2025-11-04 at 08 12 27_7ab389a8](https://github.com/user-attachments/assets/f0cc5198-8153-4a80-9f4a-8c7eb99deacd)
+
 
